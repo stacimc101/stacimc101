@@ -6,7 +6,7 @@ Here’s your updated README:
 
 👋 Hi, I’m @stacimc101!  
 👀 I’m interested in helping organizations optimize their CRM processes with Salesforce.  
-🌱 I’m currently learning everything Salesforce Admin, from custom objects to Flow automation.  
+🌱 I’m currently learning everything Salesforce Admin, from custom objects to Flow automation at Calbright College.  
 💞️ I’m looking to collaborate on Salesforce projects and learning experiences.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stacimcdonald01/) | [Trailblazer Profile](https://www.salesforce.com/trailblazer/stacimcdonald01) | [Facebook](https://www.facebook.com/stacimcdonald01)  
 😄 Pronouns: She/Her  
